@@ -1,0 +1,30 @@
+.hi
+{
+    border:2px solid black ;
+    height:75px;
+    display:flex;
+    justify-content:space-between; 
+    align-items:center;
+    background-color:royalblue;
+    color:whitesmoke;
+
+}
+.hello
+{
+    height:75px;
+    width:800px;
+}
+.hey
+{
+    border:2px solid black ;
+    height:75px;
+}
+ul{
+    display:flex;
+    justify-content:space-between; 
+    align-items:center;
+    list-style-type:none;
+}
+*{
+    font-size:large;
+}
